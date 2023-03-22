@@ -29,16 +29,16 @@ This repository contains the initial stage of a student project to build a clone
 ```
 /AirBnB_clone$ ./console.py
 ```
-4. When this command is run the following prompt should appear:
+4. When this command is run or excuted the following prompt should appear:
 ```
 (hbnb)
 ```
 5. This prompt designates you are in the "HBnB" console. There are a variety of commands available within the console program.
 
 ##### Commands
-    * create - Creates an instance based on given class
+    * create - Creates an instance based on given a class
 
-    * destroy - Destroys an object based on class and UUID
+    * destroy - Destroys an object based on a class and UUID
 
     * show - Shows an object based on class and UUID
 
